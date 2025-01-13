@@ -91,16 +91,16 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "haku")
 # GIT TOKEN ( if your edited repo is private)
 GIT_TOKEN = getenv(
     "GIT_TOKEN",
-    "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",
+    "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",
 )
 
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/NULLCROW"
+    "SUPPORT_CHANNEL", "https://t.me/piratexleaks"
 )  # Example:- https://t.me/HakutakaID_GH
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/NULLCROW"
+    "SUPPORT_GROUP", "https://t.me/piratexchat"
 )  # Example:- https://t.me/ZeebSupport
 
 
